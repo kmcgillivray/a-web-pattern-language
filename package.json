@@ -7,7 +7,7 @@
     "deploy": "gh-pages-deploy"
   },
   "gh-pages-deploy": {
-    "staticpath": "static",
+    "staticpath": "public",
     "commit": "gh-pages update"
   },
   "repository": {
