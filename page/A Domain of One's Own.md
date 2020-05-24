@@ -1,0 +1,4 @@
+- [[Website for one person]]
+- [[Website for a business]]
+- [[Website for a community]]
+- [[Websites are places of public accommodation]]

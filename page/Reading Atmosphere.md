@@ -1,0 +1,5 @@
+The primary material of websites is text. When people visit a website to search for relevant information or read an article, some web pages invite relaxed and coherent reading, while others inspire anxiety and frustration through layers of advertising and disordered information.
+
+Start with the main body text style, formatted for comfortable reading in size, line lengths, line height, and typeface. Arrange headings so they are in proportion to the body text and help to visually group distinct reading sections. Place other page elements in relation to the text to give the reading area primary focus through contrast, size, and grouping. Minimize intrusions into the reading area from unrelated material, especially animated images or videos.
+
+Shape the text proportionally using [[Text rhythm]] and [[Text element variety]]. Most importantly, choose the text color, background color, and link styling with [[Text contrast]] for accessibility. For images as part of the text, use [[Framed images]] and [[Accessible media]]. Make each section linkable with [[Page anchors]].
