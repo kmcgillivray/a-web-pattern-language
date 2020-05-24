@@ -1,0 +1,26 @@
+{
+  "name": "a-web-pattern-language",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages-deploy"
+  },
+  "gh-pages-deploy": {
+    "staticpath": "static",
+    "commit": "gh-pages update"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmcgillivray/a-web-pattern-language.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmcgillivray/a-web-pattern-language/issues"
+  },
+  "homepage": "https://github.com/kmcgillivray/a-web-pattern-language#readme",
+  "devDependencies": {
+    "gh-pages-deploy": "^0.5.1"
+  }
+}
