@@ -23,7 +23,7 @@ The homesteaders are reviving buried patterns that had promise but are now extin
 * Web archaeology – digging for artifacts
 * Foundations – publish, build, and access
 * A domain of one's own – privacy, building skills
-* [Doomsday predictions](https://www.adrianshort.co.uk/2011/09/25/its-the-end-of-the-web-as-we-know-it/) and false memory: "In 1994, there were fewer than 3,000 websites online. By 2014, there were more than 1 billion." [Link](https://www.theatlantic.com/technology/archive/2015/10/raiders-of-the-lost-web/409210/)
+* [Doomsday predictions](https://www.adrianshort.co.uk/2011/09/25/its-the-end-of-the-web-as-we-know-it/) and false memory: "In 1994, there were fewer than 3,000 websites online. By 2014, there were more than 1 billion." (Arguably the indieweb is bigger now than it ever has been and remains as richly quirky and creative.) [Link](https://www.theatlantic.com/technology/archive/2015/10/raiders-of-the-lost-web/409210/)
 
 ## The cozyweb network: all good things of this earth flow into the city
 
@@ -36,4 +36,9 @@ The rogues are experimenting with new patterns between the gaps, trying to carve
 
 ## Toward pattern languages: Digital spaces that live echo physical spaces that live
 
-Indieweb nostalgia and cozyweb retreat are both responses to the same idea: that the web is worth saving, defending, and growing. Each stance on its own is incomplete, but together they are part of the overall fabric of the web. Sharing vision of a healthy, living, diverse future for the web, and how it might emerge—introducing pattern languages.
+Indieweb nostalgia and cozyweb retreat are both responses to the same idea: that the web is worth saving, defending, and growing. Each stance on its own is incomplete, but they are both essential parts of the overall fabric of the web. Sharing a vision of a healthy, living, diverse future for the web, and how it might emerge—introducing pattern languages.
+
+* Self-crafted private homes, friendly backyard dinner parties, bustling activity of public squares are all essential to the map of the web. Erasing parts of the map would leave the web itself incomplete (start with wholeness).
+* Recognize current imbalances and tensions (privacy, safety, isolation) and look for patterns that resolve them
+* Recognize places that are vibrant, healthy, alive, and wondrous, and discover patterns present in those places
+* Share patterns and use pattern languages to be stewards of the web together
