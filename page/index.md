@@ -5,12 +5,13 @@ template: "index.html"
 
 (This is a draft in progress.)
 
-<!-- <ul>
-  <li><a href="a-fantastic-map-of-the-web.html">A fantastic map of the web</a><br>The web that is, the web that was, the web that could have been, the web that could be</li>
-  <li><a href="pattern-libraries-and-pattern-languages.html">Pattern libraries and pattern languages</a><br>From atomic design to grammatical design</li>
-  <li><a href="how-to-use-a-pattern-language.html">How to use a pattern language</a></li>
-  <li><a href="web-patterns.html">A web pattern language</a></li>
-</ul> -->
+To receive notifications for updates, please subscribe to the newsletter:
+
+<form action="https://tinyletter.com/kmcgillivray" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/kmcgillivray', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+  <label class="sr-only" for="tlemail">Email</label>
+  <input class="w-100 clarendon pa3 mb3 bg-newsprint-light bn" placeholder="name@example.com" type="text" name="email" id="tlemail" />
+  <input type="hidden" value="1" name="embed"/><input class="w-100 dim db pa3 bg-signal-mid-dark signal-light bn clarendon pointer" type="submit" value="Subscribe" />
+</form>
 
 ## Contents
 

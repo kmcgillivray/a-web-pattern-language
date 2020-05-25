@@ -16,18 +16,18 @@ Luckily, despite the consolidated influence of Big Social and efforts to control
 
 ---
 
-## The homesteaders: I sang a song in hypertext
+## The indieweb homesteaders: I sang a song in hypertext
 
-What we can learn from the open web homesteaders—what works, what's missing, why nostalgia won't help.
+The homesteaders are reviving buried patterns that had promise but are now extinct or endangered. For the homesteaders, the danger is in distrusting all new patterns by default, becoming blind to the shortcomings of the old patterns, and finding themselves all alone in a web ring of one. What we can learn from the open web homesteaders—what works, what's missing, why nostalgia won't help.
 
 * Web archaeology – digging for artifacts
 * Foundations – publish, build, and access
 * A domain of one's own – privacy, building skills
 * [Doomsday predictions](https://www.adrianshort.co.uk/2011/09/25/its-the-end-of-the-web-as-we-know-it/) and false memory: "In 1994, there were fewer than 3,000 websites online. By 2014, there were more than 1 billion." [Link](https://www.theatlantic.com/technology/archive/2015/10/raiders-of-the-lost-web/409210/)
 
-## The cozyweb: all good things of this earth flow into the city
+## The cozyweb network: all good things of this earth flow into the city
 
-What we can learn from the cozyweb network—what works, what's missing, why fleeing won't help.
+The rogues are experimenting with new patterns between the gaps, trying to carve out new possibilities and discover what's missing and what might work that we haven't tried before within the framework of the Streams. For the rogues, the risk is abandoning the web for their own communities, dismissing promising old solutions as been-there-done-that, and finding themselves stuck in communities that re-create the dysfunction of the mainstream at a smaller scale. What we can learn from the cozyweb network—what works, what's missing, why fleeing won't help.
 
 * Web 3.0 values – gradients of privacy, human-scale networks, chill
 * The metamodern self - alt-accounts & cloaking, rejection of personal branding, re-learning how to be yourself on the internet
@@ -36,4 +36,4 @@ What we can learn from the cozyweb network—what works, what's missing, why fle
 
 ## Toward pattern languages: Digital spaces that live echo physical spaces that live
 
-Sharing vision of a healthy, living, diverse future for the web, and how it might emerge—introducing pattern languages.
+Indieweb nostalgia and cozyweb retreat are both responses to the same idea: that the web is worth saving, defending, and growing. Each stance on its own is incomplete, but together they are part of the overall fabric of the web. Sharing vision of a healthy, living, diverse future for the web, and how it might emerge—introducing pattern languages.
