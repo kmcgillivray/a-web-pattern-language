@@ -20,4 +20,5 @@ To receive notifications for updates, please subscribe to the newsletter:
 * [[How to find patterns]]
 * [[How to use a pattern language]]
 * [[A web pattern language]]
+    1. [[Gradients of Privacy]]
     1. [[Reading Atmosphere]]

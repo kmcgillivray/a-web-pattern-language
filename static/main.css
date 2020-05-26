@@ -72,3 +72,6 @@ hr {
   border: 2px dotted #000;
   padding: 2rem;
 }
+.nolink {
+  text-decoration: underline;
+}
