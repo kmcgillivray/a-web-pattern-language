@@ -23,6 +23,7 @@ body {
   font-size: 1em;
   line-height: 1.55;
   font-family: clarendon-text-pro, serif;
+  color: #222424;;
 }
 p {
   margin-top: 0px;
@@ -59,9 +60,8 @@ ol li {
 blockquote {
   padding-left: .75rem;
   padding-right: .75rem;
-  font-size: .9rem;
-  line-height: 1.35;
   border-left: none;
+  font-style: italic;
 }
 hr {
   margin-top: 40px;
@@ -72,8 +72,15 @@ hr {
   border-right: 0px;
 }
 .alert {
-  border: 2px dotted #000;
   padding: 2rem;
+  background-color: #F4F6F6;
+}
+.wikilink,
+.nolink {
+  font-style: italic;
+}
+.wikilink {
+  color: #7E6D3A;;
 }
 .nolink {
   text-decoration: underline;
