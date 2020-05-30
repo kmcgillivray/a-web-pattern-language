@@ -2,12 +2,14 @@
 
 {% block body %}
 <article>
-  <blockquote class="alert">This page is unfinished or a placeholder! This may be a summary of what the page will focus on or a partial rough draft.</blockquote> 
+  <blockquote class="alert">This page is unfinished or a placeholder! This may be a summary of what the page will focus on or a partial rough draft.</blockquote>
   <h1>{{doc.title}}</h1>
   <div>{{doc.content}}</div>
-  <!-- <h2>Pages that link here</h2>
+  <h2>Patterns that link here</h2>
   {% for link in doc.meta.backlinks %}
-    <p>{{link.title}}</p>
-  {% endfor %} -->
+    {% if link.title != 'Home' %}
+      <p><a href="{{to_url(link.output_path)}}">{{link.title}}</a><br>{{link.summary}}</p>
+    {% endif %}
+  {% endfor %}
 </article>
 {% endblock %}
