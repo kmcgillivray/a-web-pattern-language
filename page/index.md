@@ -28,4 +28,5 @@ To receive notifications for updates, please subscribe to the newsletter:
 * [[A web pattern language]]
     1. [[Gradients of privacy]]
     1. [[A domain of one's own]]
+    1. [[Personal site orbit]]
     1. [[Reading atmosphere]]
