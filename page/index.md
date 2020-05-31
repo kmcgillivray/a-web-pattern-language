@@ -3,7 +3,13 @@ title: Home
 template: "index.html"
 ---
 
-(This is a draft in progress.)
+# A Web Pattern Language
+
+## Building a living, healthy, meaningful web
+
+_A Web Pattern Language_ is a shared language for building the web together for anyone who cares about its future. Applying insights about homes, neighborhoods, and cities from Christopher Alexander's _A Pattern Language_, _A Web Pattern Language_ provides an introduction to designing with pattern languages and a collection of rules of thumb, approaches, and patterns covering everything from the entire web regions to small sections of individual web pages.
+
+_(This is a draft-in-progress web book and always-evolving digital pattern garden. Many pages are incomplete or contain rough drafts.)_
 
 To receive notifications for updates, please subscribe to the newsletter:
 
