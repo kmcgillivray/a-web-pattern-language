@@ -1,0 +1,26 @@
+<rss version="2.0">
+<channel>
+  <title>A Web Pattern Language</title>
+  <link>https://kmcgillivray.github.io/a-web-pattern-language/</link>
+  <description>A very cool website</description>
+  <generator>Lettersmith</generator>
+  <lastBuildDate>
+    Wed, 03 Jun 2020 04:55:02 
+  </lastBuildDate>
+  
+  <item>
+    <title>Example Post</title>
+    <link>https://kmcgillivray.github.io/a-web-pattern-language/2020/05/24/example-post/</link>
+    <guid>https://kmcgillivray.github.io/a-web-pattern-language/2020/05/24/example-post/</guid>
+    <description>Content link to</description>
+    <content:encoded><![CDATA[
+      <p>Content link to... <span class="nolink">page A</span></p>
+    ]]></content:encoded>
+    <pubDate>Sun, 24 Nov 2019 00:00:00 </pubDate>
+    
+      <author>Kevin McGillivray</author>
+    
+  </item>
+  
+</channel>
+</rss>
