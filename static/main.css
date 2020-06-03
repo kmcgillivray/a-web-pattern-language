@@ -1,8 +1,28 @@
-/*
- * typeguide.css
- * by @kev_mcg
- * http://github.com/kmcgillivray
- */
+@charset "UTF-8";
+
+@font-face {
+  font-family: 'et-book';
+  src: url('fonts/et-book/et-book-roman-line-figures/et-book-roman-line-figures.eot');
+  src: url('fonts/et-book/et-book-roman-line-figures/et-book-roman-line-figures.eot?#iefix') format('embedded-opentype'), url('fonts/et-book/et-book-roman-line-figures/et-book-roman-line-figures.woff') format('woff'), url('fonts/et-book/et-book-roman-line-figures/et-book-roman-line-figures.ttf') format('truetype'), url('fonts/et-book/et-book-roman-line-figures/et-book-roman-line-figures.svg#etbookromanosf') format('svg');
+  font-weight: normal;
+  font-style: normal
+}
+
+@font-face {
+  font-family: 'et-book';
+  src: url('fonts/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.eot');
+  src: url('fonts/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.eot?#iefix') format('embedded-opentype'), url('fonts/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.woff') format('woff'), url('fonts/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.ttf') format('truetype'), url('fonts/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.svg#etbookromanosf') format('svg');
+  font-weight: normal;
+  font-style: italic
+}
+
+@font-face {
+  font-family: 'et-book';
+  src: url('fonts/et-book/et-book-bold-line-figures/et-book-bold-line-figures.eot');
+  src: url('fonts/et-book/et-book-bold-line-figures/et-book-bold-line-figures.eot?#iefix') format('embedded-opentype'), url('fonts/et-book/et-book-bold-line-figures/et-book-bold-line-figures.woff') format('woff'), url('fonts/et-book/et-book-bold-line-figures/et-book-bold-line-figures.ttf') format('truetype'), url('fonts/et-book/et-book-bold-line-figures/et-book-bold-line-figures.svg#etbookromanosf') format('svg');
+  font-weight: bold;
+  font-style: normal
+}
 
 html {
   padding-top: 2rem;
@@ -11,19 +31,36 @@ html {
 }
 @media (min-width: 768px) {
   html {
-    font-size: 18px;
+    font-size: 21px;
   }
 }
 body {
-  max-width: 680px;
-  margin-left: auto;
-  margin-right: auto;
   padding-left: 1.5rem;
   padding-right: 1.5rem;
   font-size: 1em;
-  line-height: 1.55;
-  font-family: clarendon-text-pro, serif;
-  color: #222424;;
+  line-height: 1.5;
+  font-family: 'et-book', serif;
+  color: #222424;
+  background-color: #F4F6F6;
+}
+.measure { max-width: 680px; }
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+.title {
+  font-size: 5rem;
+  line-height: 1;
+  margin-bottom: 2.5rem;
+}
+@media (min-width: 680px) {
+  .title {
+    font-size: 6rem;
+    line-height: .9;
+  }
+}
+.subtitle {
+  font-size: 1.8rem;
 }
 p {
   margin-top: 0px;
@@ -41,7 +78,7 @@ h6 {
 }
 h1 {
   margin-top: 0px;
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 h2 {
   font-size: 1.2rem;
@@ -73,14 +110,14 @@ hr {
 }
 .alert {
   padding: 2rem;
-  background-color: #F4F6F6;
+  background-color: #FFFFFF;
 }
 .wikilink,
 .nolink {
   font-style: italic;
 }
 .wikilink {
-  color: #7E6D3A;;
+  color: #7E6D3A;
 }
 .nolink {
   text-decoration: underline;

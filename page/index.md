@@ -3,9 +3,7 @@ title: Home
 template: "index.html"
 ---
 
-# A Web Pattern Language
-
-## Building a living, healthy, meaningful web
+<h1 class="title">A Web Pattern Language</h1>
 
 _A Web Pattern Language_ is a shared language for building the web together for anyone who cares about its future. Applying insights about homes, neighborhoods, and cities from Christopher Alexander's _A Pattern Language_, _A Web Pattern Language_ provides an introduction to designing with pattern languages and a collection of rules of thumb, approaches, and patterns covering everything from the entire web regions to small sections of individual web pages.
 
